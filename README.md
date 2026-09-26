@@ -2,7 +2,7 @@
 
 VB6 Word Counter (`WordCounter.exe`) that reads a text file, tokenizes words into a list, and can write the word list out. Distinct from sibling `Word` (document property search). Open `WordCounter.vbp` in the VB6 IDE.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
+**Source last updated:** 2002-11-11 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
 ## Solution structure
 
